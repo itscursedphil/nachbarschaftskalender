@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": ["airbnb", "plugin:prettier/recommended", "prettier/react"],
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
